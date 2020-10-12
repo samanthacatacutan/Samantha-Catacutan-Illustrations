@@ -7,13 +7,13 @@ Painted with gouache on watercolor paper.
 ![Princess Yue](Princess Yue.jpg)
 Digitally painted on iBis Paint X.
 ## Taiyaki Ice Cream
-![Taiyaki Ice Cream](icecream[1].jpg)
+![Taiyaki Ice Cream](icecream[1].JPG)
 Painted with gouache on watercolor paper.
 ## Bee
-![Bee](bee[1].jpg)
+![Bee](bee[1].JPG)
 Painted with gouache and watercolor on watercolor paper.
 ## Chicken
-![Chicken](chicken[2].jpg)
+![Chicken](chicken[2].JPG)
 Painted with gouache on watercolor paper.
 ## Koi Fish
 ![Koi Fish](koifish[1].jpg)
