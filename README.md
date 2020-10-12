@@ -1,4 +1,4 @@
 # Samantha Catacutan Illustrations
 A collection of my personal artwork!
-## Princess Yue
+## Dog Painting
 [![Dog](/assets/images/dog[1].jpg)]
